@@ -163,16 +163,16 @@ curl -X POST https://kqyrtldyyqgaymospbez.supabase.co/functions/v1/export-order-
 ✅ Código Production-Ready
 - TypeScript com tipagem forte
 
-- Tratamento de erros em todas as camadas
+- Tratamento de erros
 
-- Validações de dados robustas
+- Validações de dados
 
 ✅ Segurança Implementada
 - RLS garantindo acesso restrito
 
 - Validação de estoque em tempo real
 
-- Políticas de acesso granulares
+- Políticas de acesso
 
 ✅ Performance Otimizada
 - Views para consultas complexas
