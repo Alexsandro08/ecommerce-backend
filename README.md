@@ -73,8 +73,8 @@ PUT    /orders/:id/status        # Atualizar status
 
 ``` bash
 # Clone o repositório
-git clone https://github.com/Alexsandro08/ecommerce-escribo.git
-cd ecommerce-escribo
+git clone https://github.com/Alexsandro08/ecommerce-backend.git
+cd ecommerce-backend
 
 # Instale as dependências
 npm install
